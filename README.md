@@ -15,7 +15,9 @@ Inspired by the image below [from here](https://fantasyfootballanalytics.net/201
 </p>
 
 ## Related Resources
-* [Data](https://www.ftnfantasy.com/air-yards)
+* [Air Yards Data](https://www.ftnfantasy.com/air-yards)
+* [VORP Data](https://www.fantasypros.com/nfl/rankings/ppr-vorp.php?team_size=10)
 * [Air Yards Explanation](https://noextrapoints.com/air-yards-and-other-metrics)
 * [Intro to KDEs](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
-* Seaborn [kdeplot](https://seaborn.pydata.org/generated/seaborn.kdeplot.html#seaborn.kdeplot) and [color guide](https://seaborn.pydata.org/tutorial/color_palettes.html)
+* Seaborn [kdeplot](https://seaborn.pydata.org/generated/seaborn.kdeplot.html#seaborn.kdeplot), [color theory](https://seaborn.pydata.org/tutorial/color_palettes.html), & [color guide](https://medium.com/@morganjonesartist/color-guide-to-seaborn-palettes-da849406d44f)
+* [Pandas Boolean Masks](https://stackoverflow.com/a/54358361)
