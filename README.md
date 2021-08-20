@@ -21,3 +21,4 @@ Inspired by the image below [from here](https://fantasyfootballanalytics.net/201
 * [Intro to KDEs](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 * Seaborn [kdeplot](https://seaborn.pydata.org/generated/seaborn.kdeplot.html#seaborn.kdeplot), [color theory](https://seaborn.pydata.org/tutorial/color_palettes.html), & [color guide](https://medium.com/@morganjonesartist/color-guide-to-seaborn-palettes-da849406d44f)
 * [Pandas Boolean Masks](https://stackoverflow.com/a/54358361)
+* [Substring Boolean Masks](https://towardsdatascience.com/check-for-a-substring-in-a-pandas-dataframe-column-4b949f64852)
